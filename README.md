@@ -1,5 +1,5 @@
 # 4.Decision-support-algorithm-for-the-processing-of-production-scraps
-This is an entreprise project. My teammates and I developped a decision support algorithm for our client to help him to decide whether to throw away the production scraps, recycle it or sell it.
+This is an entreprise project. My teammates and I developped a decision support algorithm for our client to help him to decide whether to throw away the production scraps, recycle it or sell it..
 
 ## Identification of needs of our client
 The major need is the realization of a decision support algorithm for the processing of 2D production scraps for industrial oriented companies.
